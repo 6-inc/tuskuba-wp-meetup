@@ -13,7 +13,7 @@
 
 
 ## カスタムタクソノミー
-カスタムタクソノミーは`register_taxonomy($slug, $post_type_slug, $arg, $arg)`を使っ[]て作成する
+カスタムタクソノミーは`register_taxonomy($slug, $post_type_slug, $arg)`を使っ[]て作成する
 
 ※参考
 [関数リファレンス/register taxonomy](https://wpdocs.osdn.jp/%E9%96%A2%E6%95%B0%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9/register_taxonomy)
